@@ -3,7 +3,7 @@
 ## CCNA: Introduction to Networks
 https://www.credly.com/badges/cac77547-892d-41bf-80bb-edeb6450b62e/public_url
 
-## NDG Lunix Essentials
+## NDG Linux Essentials
 https://www.netacad.com/courses/os-it/ndg-linux-essentials
 
 ## AWS Academy Cloud Foundations
