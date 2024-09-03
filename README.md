@@ -1,4 +1,4 @@
-# certificados
+# Certificados
 
 ## CCNA: Introduction to Networks
 https://www.credly.com/badges/cac77547-892d-41bf-80bb-edeb6450b62e/public_url
